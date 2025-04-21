@@ -1,0 +1,1 @@
+Screenshot failed: 'NoneType' object has no attribute 'get_screenshot_as_base64'

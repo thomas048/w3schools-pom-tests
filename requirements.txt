@@ -1,0 +1,32 @@
+# Core dependencies
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+
+# Testing framework
+pytest>=7.0.0
+pytest-html>=3.2.0  # HTML reports with better screenshot support
+pytest-metadata>=2.0.0
+pytest-rerunfailures>=10.0  # Retry failed tests
+pytest-xdist>=2.5.0  # Parallel test execution support
+
+# Logging and reporting
+pytest-logger>=0.5.1  # Enhanced logging capabilities
+pytest-ordering>=0.6.0  # Control the order of test execution
+
+# Web testing utilities
+lxml>=4.6.0  # XML/HTML parsing for better element location
+Pillow>=8.0.0  # Image processing (for screenshot handling)
+beautifulsoup4>=4.9.0  # HTML parsing for advanced scraping scenarios
+
+# General utilities
+requests>=2.25.0  # HTTP requests
+python-dotenv>=0.15.0  # Environment variables
+importlib-metadata>=4.0.0  # Package metadata
+PyYAML>=6.0  # YAML support for configuration
+
+# Time handling
+pytz>=2021.1  # Time zone handling
+
+# Additional testing tools
+pytest-timeout>=2.0.0  # Set timeout for tests
+pytest-cov>=2.12.0  # Test coverage reporting
