@@ -187,3 +187,6 @@ Screenshots can be accessed in two ways:
 2. Through the HTML report - click on a failed test to view the attached screenshot
 
 This feature helps with debugging by providing visual evidence of the application state at the time of failure.
+
+## Report Screenshot
+![2025-04-21 21 57 42](https://github.com/user-attachments/assets/b3da82d3-ebb5-428a-85f3-a4d508931c73)
